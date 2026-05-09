@@ -7,7 +7,6 @@ Currently learning and building projects using:
 - Python
 - C++
 - SQL
-- Git & GitHub
 - Verilog
 - SystemVerilog
 
