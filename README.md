@@ -29,5 +29,5 @@ Currently learning and building projects using:
 ---
 
 ## Connect With Me
-- LinkedIn: 
-- Email: https://www.linkedin.com/in/anwar-atawna-528646368/?skipRedirect=true
+- LinkedIn:  https://www.linkedin.com/in/anwar-atawna-528646368/?skipRedirect=true 
+- Email:     alhlsanwr@gmail.com 
