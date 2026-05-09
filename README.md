@@ -6,6 +6,7 @@ Computer Engineering student interested in AI, Software Development, and Design 
 Currently learning and building projects using:
 - Python
 - C++
+- C
 - SQL
 - Verilog
 - SystemVerilog
